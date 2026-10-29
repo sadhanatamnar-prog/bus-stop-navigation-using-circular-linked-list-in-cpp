@@ -1,5 +1,4 @@
 Project Title
-
 Represent a distribution center, customer locations, and connecting roads with distance weights, and apply Dijkstra's algorithm to determine the shortest delivery route to a selected customer.
 
 Introduction
