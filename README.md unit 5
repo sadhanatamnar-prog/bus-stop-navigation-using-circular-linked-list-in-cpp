@@ -1,0 +1,49 @@
+Project Title
+
+Represent a distribution center, customer locations, and connecting roads with distance weights, and apply Dijkstra's algorithm to determine the shortest delivery route to a selected customer.
+
+Introduction
+This project focuses on finding the shortest delivery route from a distribution center to a selected customer location. The road network is represented using a weighted graph, and Dijkstra's algorithm is implemented in C++ to calculate the minimum distance.
+
+Problem Statement
+Represent a distribution center, customer locations, and connecting roads as a weighted graph, where road distances are represented by edge weights. Apply Dijkstra's algorithm to determine the shortest delivery route to a selected customer while minimizing the total travel distance.
+
+Objectives
+1. To represent locations and roads using a weighted graph.
+2. To implement Dijkstra's algorithm using C++.
+3. To calculate the shortest distance between locations.
+4. To identify the most efficient delivery route.
+5. To reduce delivery time and transportation costs.
+6. To understand the practical application of graph algorithms.
+
+Algorithm
+1. Start the program.
+2. Input the number of locations and roads.
+3. Create a weighted graph using locations and distances.
+4. Select the distribution center as the source.
+5. Initialize the distances of all locations.
+6. Apply Dijkstra's algorithm to find the shortest distances.
+7. Select the required customer location.
+8. Display the shortest route and total distance.
+9. Stop the program.
+
+Applications
+1. Courier and parcel delivery services.
+2. GPS navigation systems.
+3. E-commerce delivery management.
+4. Transportation and logistics.
+5. Road network optimization.
+6. Supply chain management.
+7. Emergency vehicle route planning.
+
+Advantages
+1. Finds the shortest route efficiently.
+2. Reduces transportation distance.
+3. Saves fuel and delivery costs.
+4. Improves delivery planning.
+5. Provides accurate shortest-distance calculations.
+6. Helps optimize transportation networks.
+7. Demonstrates practical graph algorithm implementation.
+
+Conclusion
+This project demonstrates the use of Dijkstra's algorithm for shortest delivery route optimization. By representing locations and roads as a weighted graph, the algorithm calculates the minimum distance from the distribution center to the selected customer. The project improves delivery efficiency, reduces travel distance, and provides practical knowledge of graph algorithms using C++.
